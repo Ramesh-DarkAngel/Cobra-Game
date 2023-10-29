@@ -11,6 +11,7 @@ Installation:
 1. Download the "Cobra Game.zip" and extract them into your preferred location and folder (Eg: ~Desktop\Cobra Game).
 2. Just double click the Cobra Game.exe to play.
 
-Note: If the game doesn't restart once you press "ENTER" key, press all the arrows keys (Up, DOWN, LEFT and RIGHT) one by one and press Enter again! 
+Note: 1. You may need python to be installed into your system first.
+      2. If the game doesn't restart once you press "ENTER" key, press all the arrows keys (Up, DOWN, LEFT and RIGHT) one by one and press Enter again! 
 
 
