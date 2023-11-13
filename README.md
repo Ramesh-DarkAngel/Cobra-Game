@@ -13,7 +13,7 @@ Installation:
 
 
 Note: 
-1. You may need python to be installed into your system first.
+1. Window's virus & threat protection may delete the .exe files after extraction. Kindly "Allow" the .exe file to be run in your system.
 2. If the game doesn't restart once you press "ENTER" key, press all the arrows keys (Up, DOWN, LEFT and RIGHT) one by one and press Enter again! 
 
 
