@@ -1,7 +1,7 @@
 # Cobra-Game
 A snake game based on Python using Python theme color.
 
-![Screenshot 2023-10-21 054120](https://github.com/Ramesh-DarkAngel/Cobra-Game/assets/79072516/b56cb3ec-c903-4fb6-9f0e-97f2f8354b28)
+![Screenshot 2023-10-21 054120](https://github.com/Ramesh-DarkAngel/Cobra-Game/blob/main/Game%20Play.png)
 
 
 
